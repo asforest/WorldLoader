@@ -1,0 +1,7 @@
+name: WorldAutoLoader
+main: cn.innc11.WorldAutoLoader.Main
+version: "1.0"
+author: innc11
+api: ["1.0.0"]
+prefix: "WorldAutoLoader"
+load: POSTWORLD
